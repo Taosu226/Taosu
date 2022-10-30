@@ -2732,7 +2732,7 @@ ul.breadcrumb li:last-child {
   }
 }
 body {
-  background: url("https://w.wallhaven.cc/full/gp/wallhaven-gpzve7.png");
+  background: url("/images/background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
